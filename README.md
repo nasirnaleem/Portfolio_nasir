@@ -6,7 +6,7 @@ To save the details submitted through the "Send Message" option, you can use XAM
 
 Install and Start XAMPP: Download and install XAMPP from https://www.apachefriends.org. Start the Apache and MySQL modules.
 
-Create Database: Open phpMyAdmin (usually accessed at http://localhost/phpmyadmin) and create a new database named portfolio_data.
+Create Database: Open phpMyAdmin (usually accessed at [http://localhost/phpmyadmin](https://github.com/nasirnaleem/Portfolio_nasir.git)) and create a new database named portfolio_data.
 
 Import SQL File: Import the portfolio_data.sql file provided in the repository. This file contains the necessary table structure for storing contact details.
 
